@@ -1,15 +1,9 @@
 def speak_to_grandma(string)
-  if string.toUpperCase
-}
-function whisper(string)
-  return string.toLowerCase
-}
-function logShout(string) {
-  console.log("HELLO")
-}
-function logWhisper(string) {
-  console.log("hello")
-}
+  if string.upcase
+    puts "NO, NOT SINCE 1938!"
+  elsif string == 'I LOVE YOU GRANDMA!'
+    
+
 end
 
 # Whatever you say to grandma, she should respond with
