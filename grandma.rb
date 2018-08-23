@@ -1,5 +1,15 @@
-def speak_to_grandma
-  
+def speak_to_grandma(string)
+  if string.toUpperCase
+}
+function whisper(string)
+  return string.toLowerCase
+}
+function logShout(string) {
+  console.log("HELLO")
+}
+function logWhisper(string) {
+  console.log("hello")
+}
 end
 
 # Whatever you say to grandma, she should respond with
